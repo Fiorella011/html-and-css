@@ -1,2 +1,2 @@
-# html-and-css
-Aprendiendo html y css
+# introducction-html
+Este repositorio es para hacer ejercicios de html
