@@ -1,0 +1,56 @@
+*{
+    font-family: sans-serif;
+    padding: none;
+}
+body{
+    background-color: white;
+}
+.box-nmbN1{
+    background-color: aquamarine;
+    width: 400px;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: rgb(red, green, blue);
+}
+.box-1{
+    color: rgb(7, 7, 7);
+}
+.box-nmbN2{
+    background-color: bisque;
+    width: 400px;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: rgb(red, green, blue);
+}
+.box-sumar{
+    background-color: red;
+    width: 80px;
+    padding: 10px;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    color: white;
+}
+.box-restar{
+    background-color: blueviolet;
+    width: 80px;
+    padding: 10px;
+    border-radius: 2px;
+    color: white;
+    margin-right: 25%;
+    margin-top: 25%;
+    margin-left: 25%;
+}
+.box-multiplicar{
+    background: green;
+    width: 80px;
+    padding: 10px;
+    border-radius: 2px;
+    margin-right: 25%;
+    margin-bottom: 2%;
+    color: white;
+}
+.box-dividir{
+    
+}
